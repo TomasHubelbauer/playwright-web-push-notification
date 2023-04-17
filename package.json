@@ -1,0 +1,21 @@
+{
+  "name": "playwright-web-push-notification",
+  "version": "1.0.0",
+  "description": "Let's see if it is possible to write a test that a web push notification shows upon a click of a button.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasHubelbauer/playwright-web-push-notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasHubelbauer/playwright-web-push-notification/issues"
+  },
+  "homepage": "https://github.com/TomasHubelbauer/playwright-web-push-notification#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
